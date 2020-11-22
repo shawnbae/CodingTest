@@ -1,6 +1,5 @@
 # 문제출처: https://programmers.co.kr/learn/courses/30/lessons/42839
 
-
     sosu_list= []
     for i in range(2,10000000):
         for j in range(2, 10000000):
