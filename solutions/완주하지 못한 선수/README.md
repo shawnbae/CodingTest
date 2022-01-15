@@ -6,7 +6,7 @@
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
-| Python3 | - | - | [soltion.py](solution.py) |
+| Python3 | - | - | [solution.py](solution.py) |
 
 <br>
 <br>
