@@ -2,7 +2,7 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 42840 | Level 2 | 42840 - 모의고사 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/42840)| 연습문제 | [~~풀이~~](/solutions/모의고사/README.md) [![python3](/assets/python3.svg)](/solutions/모의고사/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
+| 42840 | Level 1 | 42840 - 모의고사 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/42840)| 연습문제 | [~~풀이~~](/solutions/모의고사/README.md) [![python3](/assets/python3.svg)](/solutions/모의고사/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
