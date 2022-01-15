@@ -1,8 +1,8 @@
-# 완주하지 못한 선수
+# 두 개 뽑아서 더하기
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 42576 | Level 2 | 완주하지 못한 선수 | 연습문제 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [![python3](/assets/python3.svg)](solution.py) |
+| 68644 | Level 2 | 두 개 뽑아서 더하기 | 연습문제 | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
