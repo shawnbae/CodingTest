@@ -2,7 +2,7 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 68644 | Level 2 | 두 개 뽑아서 더하기 | 연습문제 | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [![python3](/assets/python3.svg)](solution.py) |
+(https://programmers.co.kr/learn/courses/30/lessons/68644)| 연습문제 | [~~풀이~~](/solutions/두%20개%20뽑아서%20더하기/README.md) [![python3](/assets/python3.svg)](/solutions/두%20개%20뽑아서%20더하기/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
