@@ -9,7 +9,6 @@
 | Python3 | - | - | [solution.py](solution.py) |
 
 <br>
-<br>
 
 ## 저작권
 
