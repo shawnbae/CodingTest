@@ -1,11 +1,13 @@
-# 문제출처: https://programmers.co.kr/learn/courses/30/lessons/42576
+-- 문제출처: https://programmers.co.kr/learn/courses/30/lessons/62284
 
-from collections import Counter
-
-def solution(participant, completion):
-    pardict= Counter(participant)
-    comdict= Counter(completion)
-    
-    answer = ''.join((pardict - comdict).keys())
-        
-    return answer
+SELECT DISTINCT CART_ID FROM CART_PRODUCTS A
+WHERE  A.CART_ID IN(
+   SELECT CART_ID
+   FROM CART_PRODUCTS
+   WHERE NAME = 'Milk'
+)
+AND A.CART_ID IN(
+   SELECT CART_ID
+   FROM CART_PRODUCTS
+   WHERE NAME = 'Yogurt'
+)
