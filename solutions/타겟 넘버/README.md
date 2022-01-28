@@ -2,7 +2,7 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 43165 | Level 2 | 43165 - 타겟 넘버 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/43165)| 연습문제 | [~~풀이~~](/solutions/타겟%20넘버/README.md) [![mysql](/assets/python.svg)](/solutions/타겟%20넘버/solution.py) || [![mysql](/assets/python.svg)](solution.py) |
+| 43165 | Level 2 | 43165 - 타겟 넘버 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/43165)| 연습문제 | [~~풀이~~](/solutions/타겟%20넘버/README.md) [![python3](/assets/python3.svg)](/solutions/타겟%20넘버/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
