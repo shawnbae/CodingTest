@@ -19,3 +19,6 @@
 <br>
 
 ## 문제 목록 - 백준
+| ID | 난이도 | 제목 | 분류 | 링크 |
+| -- | ---- | :-- | :-- | --- |
+| 15591 | Gold 5 | 15591 - MooTube(Silver) [![문제](/assets/link.svg)](https://www.acmicpc.net/problem/15591)| 연습문제 | [~~풀이~~](/BOJ/15591_MooTube(Silver)_2.ipynb/README.md) [![python3](/assets/python3.svg)](/BOJ/15591_MooTube(Silver)_2.ipynb) || [![python3](/assets/python3.svg)](15591_MooTube(Silver)_2.ipynb) |
