@@ -1,4 +1,4 @@
-# 모법적인 깊이우선탐색 알고리즘 풀이법
+# 모법적인 깊이우선탐색 알고리즘 풀이법(재귀)
 def DFS(nums, idx, n, t):
     res = 0 # 결과
     # 최종 index에 도달하는지 검사 후 DFS를 재귀적으로 반복. while문과 비슷한 효과
@@ -16,3 +16,15 @@ def DFS(nums, idx, n, t):
 def solution(numbers, target):
     answer = DFS(numbers, 0, 0, target)
     return answer
+
+# 깊이우선탐색 알고리즘 풀이법 2(반복)
+def solution(numbers, target):
+    q = [0]
+    for n in numbers:
+        s = []
+        for _ in range(len(q)):
+            x = q.pop()
+            s.append(x + n)
+            s.append(x + n*(-1))
+        q = s.copy()
+    return q.count(target)
