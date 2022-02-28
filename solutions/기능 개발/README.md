@@ -2,7 +2,7 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 42586 | Level 2 | 42586 - 기능 개발 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/42586)| 연습문제 | [~~풀이~~](/solutions/기능 개발/README.md) [![python3](/assets/python3.svg)](/solutions/기능 개발/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
+| 42586 | Level 2 | 42586 - 기능 개발 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/42586)| 연습문제 | [~~풀이~~](/solutions/기능%20개발/README.md) [![python3](/assets/python3.svg)](/solutions/기능%20개발/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
