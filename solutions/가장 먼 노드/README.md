@@ -1,8 +1,8 @@
-# K번째수
+# 가장 먼 노드
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 42748 | Level 1 | 42748 - K번째수 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/42748)| 연습문제 | [~~풀이~~](/solutions/K번째수/README.md) [![python3](/assets/python3.svg)](/solutions/K번째수/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
+| 49189 | Level 3 | 49189 - 가장 먼 노드 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/49189)| 연습문제 | [~~풀이~~](/solutions/가장%20먼%20노드/README.md) [![python3](/assets/python3.svg)](/solutions/가장%20먼%20노드/solution.py) || [![python3](/assets/python3.svg)](solution.py) |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
