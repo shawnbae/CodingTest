@@ -12,9 +12,3 @@ def solution(participant, completion):
     answer = dic[temp]
 
     return answer
-
-print(solution(["leo", "kiki", "eden"], ["eden", "kiki"]))
-print("\n")
-print(solution(["marina", "josipa", "nikola", "vinko", "filipa"], ["josipa", "filipa", "marina", "nikola"]))
-print("\n")
-print(solution(["mislav", "stanko", "mislav", "ana"], ["stanko", "ana", "mislav"]))
