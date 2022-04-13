@@ -5,7 +5,6 @@ def solution(participant, completion):
     dic = {}
     for part in participant:
         dic[hash(part)] = part
-        print(hash(part), temp)
         temp += int(hash(part))
     for com in completion:
         temp -= hash(com)
